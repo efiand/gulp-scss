@@ -8,4 +8,4 @@ __MACOS*
 npm-debug.*
 Thumbs.db
 node_modules/
-build/
+public/styles
