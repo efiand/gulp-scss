@@ -1,0 +1,13 @@
+{
+	"extends": "pineglade",
+	"overrides": [
+		{
+			"files": "api/data/**/*.js",
+			"rules": {
+				"max-len": "off",
+				"max-lines": "off",
+				"max-lines-per-function": "off"
+			}
+		}
+	]
+}
